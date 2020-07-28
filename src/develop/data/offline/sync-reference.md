@@ -68,7 +68,7 @@ Returns a Boolean value. True for online, False for offline.
 
 ### GetNetworkType
 
-Returns a text value. Describes the type of network, for example, `wifi`, `4g`, `undefined` (if in the browser preview).
+Returns a text value. Describes the type of network, for example, `wifi`, `4g`, `webbrowser` (if in the browser preview).
 
 
 ## Interface tab > UI Flows > Common > Layout and LayoutBlank
